@@ -36,4 +36,5 @@ This repository is organized into modules, each corresponding to a core concept 
 
 I'm always open to connecting with other learners and developers. Feel free to reach out!
 
-*   **GitHub**: [Yasin](https://github.com/yeplahy)
+*   **GitHub**: [Yasin Eslahi](https://github.com/yeplahy)
+*   **Linkedin**: [Yasin Eslahi](https://www.linkedin.com/in/yasin-eslahi-b0a4a9361/)
