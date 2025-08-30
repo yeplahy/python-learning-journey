@@ -1,5 +1,5 @@
 # Defining some variables
 name = "Yasin"
 age = 23
-print("my name is", name)
-print("my age is", age)
+
+print(f"my name is {name} my age is {age}.")
