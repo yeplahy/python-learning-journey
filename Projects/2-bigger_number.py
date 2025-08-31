@@ -1,11 +1,13 @@
 #start
 
-a = 1
-b = 5
+a = 5
+b = 10
 
 if a > b:
     print(a)
-else:
+elif b > a:
     print(b)
+else:
+    print("Equal")
     
 #finish
